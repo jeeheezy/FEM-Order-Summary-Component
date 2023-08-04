@@ -85,7 +85,7 @@ a:hover {
     color: hsl(257, 75%, 52%)
 }
 
-.change_link:active{
+.change_link:hover {
     text-decoration: none;
     color: hsl(245, 83%, 68%);
 }
@@ -102,7 +102,7 @@ a:hover {
     font-weight: 700;
 }
 
-.payment_button:active {
+.payment_button:hover {
     background-color: hsl(245, 83%, 68%);
 }
 
@@ -112,7 +112,7 @@ a:hover {
     font-weight: 900;
 }
 
-.cancel_link:active {
+.cancel_link:hover {
     color: hsl(223, 47%, 23%);
 }
 
